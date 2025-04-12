@@ -1,0 +1,26 @@
+h1{
+color :red;
+text-align: center;
+}
+
+button{
+
+    background-color: black;
+    border: none;
+    border-radius: 0.8rem; 
+    cursor: pointer;
+}
+body{
+    background-color:rgb(196, 255, 47);
+}
+.heading{
+    color : #ff0000;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
+h3{
+    color: blue;
+}
